@@ -2,6 +2,7 @@ style.css
 
 @import url(https://fonts.google.com/css?family=Open+Sans);
 @import url(https://fonts.googleapis.com/css?family=Lobster+Two:400,700,400italic,700italic);
+
 body {
 	text-align: center;
 	background-color: #FFFFFF;
@@ -9,7 +10,7 @@ body {
 	font-family: 'Open Sans', sans-serif; 
 }
 h1 {
-	font-family: 'Vollkorn'; serif;
+	font-family: 'Lobster Two', cursive;
 	font-size: 60px;
 	margin-top: 5px;
 	margin-bottom: 5px;	
