@@ -1,23 +1,29 @@
 style.css
 
 body {
-	background: 
-      text-align: center;
-      background: url("http://dakramsta.github.io/Unit_3/oceanview-dining1.jpg");
-      background-size: cover;
-      background-position: center;
-      color: white;
-      font-family: helvetica;
-    }
-    p {font-size: 22px;
-    }
-    input {
-      border: 0;
-      padding: 10px;
-      font-size: 18px;
-    }
-    input[type="submit"] {
-      background: red;
-      color: white;
+	 font-family: 'Open+Sans';
 }
 
+h1 {
+	font-family: 'Open Sans';
+	font-size: 24px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 26.4px;
+}
+h3 {
+	font-family: 'Open Sans';
+	font-size: 14px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 15.4px;
+}
+p {
+	font-family: 'Open Sans';
+	font-size: 14px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 400;
+	line-height: 20px;
