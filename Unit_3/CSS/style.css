@@ -1,23 +1,23 @@
 style.css
+
+@import url(https://fonts.google.com/css?family=Open+Sans);
+@import url(https://fonts.googleapis.com/css?family=Lobster+Two:400,700,400italic,700italic);
 body {
 	text-align: center;
 	background-color: #FFFFFF;
 	color: #000000;
-	font-family: Arial, sans-serif; 
+	font-family: 'Open Sans', sans-serif; 
 }
-h1, ul, li {
-	font-family: Arial, sans-serif;
-	text-transform: uppercase;
-}
-
 h1 {
+	font-family: 'Vollkorn'; serif;
 	font-size: 60px;
 	margin-top: 5px;
-	margin-bottom: 5px;
+	margin-bottom: 5px;	
 }
 
 p {
-	font-size: 18px;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 16px;
 }
 
 
