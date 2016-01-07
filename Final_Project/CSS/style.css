@@ -4,6 +4,7 @@
 body {
 	margin: 0px;
 	padding: 0px;
+	
 }
 html, body {
 	background-color: white;
@@ -82,7 +83,7 @@ p {
 	position: relative;
 	text-align: center;
 	margin: 5em 0 4px 0;
-	}
+}
 
 #layer_header {
 	background-color: rgba(0, 0, 0, 0.1);
@@ -93,7 +94,7 @@ p {
 #features {
 	display: inline-block;
 	margin-left: auto;
-    margin-right: auto;
+	margin-right: auto;
  }
 
 #introBlock {
@@ -135,7 +136,7 @@ position: center;
 	position: relative;
 	letter-spacing: 0.1em;
 	padding: 0 1% 0% 1%;
-    font-size: 14px;
+	font-size: 14px;
 
 }
 
@@ -356,7 +357,7 @@ text-align: center;
     float: none;
     width: auto;
     overflow: hidden;
-}​​
+}
 
 /*------------------------------------------------------------------------------------*/
 
